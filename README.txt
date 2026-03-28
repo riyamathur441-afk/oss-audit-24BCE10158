@@ -1,7 +1,7 @@
 # Open Source Audit - Python
 
 **Student Name:** Riya Mathur
-**Registration Number:** [Enter Your Registration Number Here]
+**Registration Number:** 24BCE10158
 **Chosen Software:** Python
 
 ## Project Overview
